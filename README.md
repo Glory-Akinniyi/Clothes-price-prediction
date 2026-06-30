@@ -115,7 +115,8 @@ This analysis helps retailers and fashion businesses:
 - Identify premium market segments.
 - Improve pricing and product strategies.
 - Support data-driven decision-making.
-
+  
+I am open to on data analysis, statistical analysis and visualization related project. You can reach me via email [lori.akinniyi@gmail.com]
 ## 👤 Author
 **Glory Akinniyi**  
 Professional Accountant | Data Analytics Enthusiast
