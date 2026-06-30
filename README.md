@@ -121,4 +121,4 @@ This analysis helps retailers and fashion businesses:
 **Glory Akinniyi**  
 Professional Accountant | Data Analytics Enthusiast
 
-I am open to on data analysis, statistical analysis and visualization related project. You can reach me via email [lori.akinniyi@gmail.com]
+ I am open to collaborate on data analysis, statistical analysis and visualization related project. You can reach me via email [lori.akinniyi@gmail.com]
