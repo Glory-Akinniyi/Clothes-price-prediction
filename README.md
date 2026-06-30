@@ -120,4 +120,5 @@ This analysis helps retailers and fashion businesses:
 ## 👤 Author
 **Glory Akinniyi**  
 Professional Accountant | Data Analytics Enthusiast
+
 I am open to on data analysis, statistical analysis and visualization related project. You can reach me via email [lori.akinniyi@gmail.com]
