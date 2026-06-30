@@ -1,6 +1,6 @@
 # 👕 Clothing Product Pricing Analysis
 
-"https://github.com/user-attachments/assets/14d967cc-9a8c-46c7-861e-12c89e91dc5e"
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/996adedc-db4f-4d34-8e5d-4b77a85415a8" />
 
 ## 📌 Project Overview
 This project analyzes the factors that influence clothing product prices using Microsoft Excel. The study examines how product attributes such as brand, category, material, size, and color affect pricing patterns and provides insights through data visualization and dashboard reporting.
